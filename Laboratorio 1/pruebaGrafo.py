@@ -1,3 +1,4 @@
+from ctypes import sizeof
 from os import remove
 import networkx as nx
 from matplotlib import pyplot as plt
@@ -143,6 +144,7 @@ while(True):
                 color_map.append('red')
             else: 
                 color_map.append('blue')
+        print("Cantidad de Pasos -> {}" .format(len(res)))
         print(res)
         nx.draw(G, nx.get_node_attributes(G, 'pos'),node_color = color_map, with_labels=True)
         plt.show()
