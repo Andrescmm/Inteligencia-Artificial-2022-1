@@ -3,7 +3,7 @@
 
 ## Librerias
 
-- Instalar todos los paquetes/librerías requeridos:
+- Instalar las librerias listadas:
   
   - math
   - networkxk
