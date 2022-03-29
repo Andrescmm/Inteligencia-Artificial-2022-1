@@ -8,6 +8,6 @@ Laboratory Practices for A.I course
 
 - Angel Dario Diaz Cornejo
 
-- Nicole Durand Zeballos 
+- Nicole Alexia Durand Zeballos 
 
-- Ludwin Olivares Torres
+- Ludwin Andre Olivares Torres
