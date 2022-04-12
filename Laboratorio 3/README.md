@@ -4,7 +4,7 @@
 
 ## Resultados
 
-Construccion de las ciudades
+Construccion de las ciudades, Estado inicial
 
 
 ![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%203/imagenes/1.png)
