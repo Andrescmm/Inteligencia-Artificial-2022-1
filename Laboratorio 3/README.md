@@ -9,17 +9,20 @@ Construccion de las ciudades, Estado inicial
 
 ![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%203/imagenes/1.png)
 
-Grafica de Resultados Distancia x Generacion
+Grafica de Resultados Distancia x Generacion, respecto al Promedio
 
 
 ![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%203/imagenes/2.png)
 
-Mejor ruta
 
 
-![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%203/imagenes/3.png)
-
-Grafica de Resultados Distancia x Generacion con una alta mutacion
+Grafica de Resultados Distancia x Generacion, respecto al Mejor Individuo
 
 
 ![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%203/imagenes/4.png)
+
+
+Mejor ruta, Estado Final
+
+
+![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%203/imagenes/3.png)
