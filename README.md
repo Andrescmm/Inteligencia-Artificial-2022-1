@@ -10,4 +10,4 @@ Laboratory Practices for A.I course
 
 - Nicole Alexia Durand Zeballos 
 
-- Ludwin Andre Olivares Torres
+
