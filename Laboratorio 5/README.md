@@ -1,4 +1,4 @@
-# Laboratorio Clasificador bayesiano ingenuo
+# Laboratorio Clasificador Bayesiano Ingenuo
 
 ## Resultados
 
