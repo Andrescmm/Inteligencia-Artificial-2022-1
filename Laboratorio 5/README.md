@@ -2,13 +2,17 @@
 
 ## Resultados
 
-1.- Leer Nombres y Personas
+1.- Porcentaje de error con el 10% de entrenamiento
 
 
-![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%204/imagenes/1.png)
+![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%205/imagenes/1.png)
 
-2.- Adivinar Numero
+2.- Porcentaje de error con el 20% de entrenamiento
 
 
-![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%204/imagenes/2.png)
+![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%205/imagenes/2.png)
 
+3.- Porcentaje de error con el 80% de entrenamiento
+
+
+![Alt text](https://github.com/Andrescmm/Inteligencia-Artificial-2022-1/blob/main/Laboratorio%205/imagenes/3.png)
